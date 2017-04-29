@@ -1,3 +1,7 @@
 # Redmine Slack Bot
 
-Internal Slack bot that replies a link to a Redmine issue when a message contains a hash with an id.
+Slack bot that replies information about a Redmine issue when a message contains a hash with a Redmine id (e.g. #1234).
+
+# Contributing
+
+Please head over to [CONTRIBUTING.md](./CONTRIBUTING.md).
