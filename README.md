@@ -4,4 +4,4 @@ Slack bot that replies information about a Redmine issue when a message contains
 
 # Contributing
 
-Please head over to [CONTRIBUTING.md](./CONTRIBUTING.md).
+Please head over to [CONTRIBUTING.md](.github/CONTRIBUTING.md).
