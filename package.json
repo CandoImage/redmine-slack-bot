@@ -1,6 +1,6 @@
 {
   "name": "slack-redmine-bot",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Slack Redmine bot",
   "main": "src/index.js",
   "scripts": {
