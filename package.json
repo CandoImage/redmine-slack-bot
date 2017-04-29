@@ -4,7 +4,7 @@
   "description": "Slack Redmine bot",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js 8080"
   },
   "keywords": [
     "slack",
@@ -12,18 +12,18 @@
     "bot"
   ],
   "author": "Cando Image GmbH",
-  "contributors": [{
-    "name": "Julian Motz",
-    "url": "https://github.com/julmot"
-  }],
+  "contributors": [
+    {
+      "name": "Julian Motz",
+      "url": "https://github.com/julmot"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
+    "express": "^4.15.2",
     "slackbots": "^1.0.2"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
-  },
-  "scripts": {
-    "dev": "nodemon src/index.js"
   }
 }
